@@ -1,5 +1,6 @@
 # Hyprland Configuration Files
 
+Note: Screenshot is of fedora/hypr development environment.
 ![Screenshot](20230916_11h04m09s_grim.png)
 
 ## Installation
@@ -43,8 +44,8 @@ adobe-source-code-pro-fonts brightnessctl hyprpicker-git
 
 ## Known Issues
 
-- Hyprland is in beta (version 0.2) at the time of creating these configuration files.
-- Occasionally, the RX5700XT may go to sleep and require a reload due to a stuck black screen.
+- Hyprland is in beta (version 0.28) at the time of creating these configuration files.
+- Occasionally, windows on the RX6700XT may become distorted and require a reload.
 
 ## Roadmap
 
