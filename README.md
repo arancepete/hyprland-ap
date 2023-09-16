@@ -1,9 +1,18 @@
 # Hyprland Configuration Files
 
+Arch and Fedora linux are the two linux versions of focus.
+
+## Installation for fedora
+
+Ensure wayland is intalled
+```
+$ sudo dnf install hyprland
+```
+
 Note: Screenshot is of fedora/hypr development environment.
 ![Screenshot](20230916_11h04m09s_grim.png)
 
-## Installation
+## Installation for arch
 
 Ensure base-devel is installed before proceeding
 
@@ -53,7 +62,7 @@ adobe-source-code-pro-fonts brightnessctl hyprpicker-git
 - [ ] Wayland guide for nwg-look, wlr-randr, etc.
 - [ ] Synergy Workaround - Exploring waynergy or KVM usage
 - [ ] Gamescope Integration - Enhancing compatibility with Steamdeck features
-- [x] Additional Customizations for Waybar - Battery, Backlight, etc.
+- [ ] Additional Customizations for Waybar - Battery, Backlight, etc.
 - [ ] Automatic Configuration - Long-term goal
 
 ## References
