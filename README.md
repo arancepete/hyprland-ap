@@ -1,6 +1,6 @@
 # Hyprland Configuration Files
 
-![Screenshot]()
+![Screenshot](20230916_11h04m09s_grim.png)
 
 ## Installation
 
