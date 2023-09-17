@@ -16,6 +16,10 @@ Note: Screenshot is of fedora/hypr development environment.
 
 Ensure base-devel is installed before proceeding
 
+Note: Screenshot is of arch/hypr development environment.
+![Screenshot](20230916_19h33m35s_grim.png)
+
+
 ### Yay
 
 **Important**: Execute the following commands as a regular user, NOT as root!
